@@ -14,7 +14,7 @@ const result = numbers.map(doubleIt);
 
 const output = numbers.map(double2);
 // console.log(output)
-const output2 = numbers.map(n => n * 2);
+const output2 = numbers.map((n) => n * 2);
 
 // const doubled = [];
 // for (const num of numbers) {
